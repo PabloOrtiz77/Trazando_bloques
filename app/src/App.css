@@ -1,0 +1,33 @@
+*{
+  padding: 0;
+  margin: 0;
+  
+}
+.container{
+  width: 950px;
+  background-color: #dddd;
+  margin: 10px auto;
+  padding: 20px 20px;
+  display: flex; 
+  flex-direction: column;
+  border: 2px solid black;
+
+}
+
+.cont2{
+  width: 100%;
+  display: flex;
+  
+}
+.sub-content{
+  height: 200px;
+  width: 210px;
+  background-color: #ffd966;
+  margin: 7px;
+  border: 2px solid black;
+}
+.cont3{
+  width: 100%;
+  display: flex;
+  box-sizing: border-box;
+}

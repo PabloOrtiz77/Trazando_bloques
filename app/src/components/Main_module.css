@@ -1,0 +1,11 @@
+.main {
+    height: 400px;
+    flex: 3;
+    background-color: #e06666;
+    display: flex;
+    margin-top: 20px;
+    margin-left: 20px;
+    flex-direction: column;
+    padding: 20px;
+    border: 2px solid black;
+}
